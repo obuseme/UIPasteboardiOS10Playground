@@ -1,6 +1,7 @@
 //: Playground - noun: a place where people can play
 // iOS 10 UIPasteboard Example
 // Copyright 2016, cleanswifter.com
+// http://cleanswifter.com/uipasteboard-ios-10-example/
 
 import UIKit
 
